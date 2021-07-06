@@ -1,0 +1,19 @@
+Se solicita realizar un estudio de Simulación de un sistema MM1 que tenga al menos los siguientes análisis:
+
++ Medidas de Rendimiento:
+
+- Promedio de clientes en el sistema.
+- Promedio de clientes en cola.
+- Tiempo promedio en sistema.
+- Tiempo promedio en cola.
+- Utilización del servidor.
+- Probabilidad de n clientes en cola.
+- Probabilidad de denegación de servicio (cola finita de tamaño: 0, 2, 5, 10, 50).
+
++ Tasas de arribo: 25%, 50%, 75%, 100%, 125% con respecto a la tasa de servicio.
+
++ 10 corridas por cada experimento.
+
++ Gráficas y análisis correspondientes a cada caso. No olvidar agregar marcó teórico y fórmulas.
+
++ Comparar los resultados de las tres fuentes de datos: el valor teórico esperado, programa en Python e implementación en Anylogic.
